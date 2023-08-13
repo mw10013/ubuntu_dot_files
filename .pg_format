@@ -1,0 +1,5 @@
+# https://github.com/darold/pgFormatter/blob/master/doc/pg_format.conf.sample
+
+# Number of column after which lists must be wrapped.
+
+wrap-after=1
